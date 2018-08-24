@@ -1,0 +1,85 @@
+.AppContainer{
+  text-align: center;
+}
+
+.panel{
+  text-align: center;
+  background-color:#252831;
+  color: #fff;
+  padding: 5px;
+  width: 100%;
+  box-sizing: border-box;
+}
+#search{
+  position: absolute;
+  text-align: center;
+  left: -300px;
+  height: 92vh;
+  margin: 0;
+  width:300px;
+  z-index: 1;
+  background-color:#f3f3f3; 
+  transition: all 0.3s ease-out 0s;
+  overflow: auto;
+}
+#search.display{
+  left: 0;
+  transition: all 0.3s ease-out 0s;
+  overflow: auto;
+} 
+.search-location {
+  width: 100%;
+  padding: 20px 20px 20px 60px;
+  background-image: url('./icons/search.svg');
+  background-repeat: no-repeat;
+  background-position: 20px center;
+  background-size: 1.2em;
+  font-size: 1.2em;
+  border: 0;
+  outline: none;
+  box-sizing: border-box;
+}
+.button {
+  margin-top: 20px;
+  background: #ccc;
+  padding: 10px;
+  text-transform: uppercase;
+  font-size: inherit;
+  border: none;
+  outline: 0;
+}
+.menu {
+  position: absolute;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  top: 10px;
+  left: 15px;
+  width: 50px;
+  height: 53px;
+  background-image: url('./icons/menu.svg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 28px;
+
+}
+.infoWindow{
+  width: 250px;
+  height: 250px;
+  margin: auto;
+  text-Align: center;
+  display:'block';
+
+}
+
+ul, li {
+  padding:5px;
+  list-style: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #333;
+}
+@media screen and (min-width: 501px) {
+  
+
+}

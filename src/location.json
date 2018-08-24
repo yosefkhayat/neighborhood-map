@@ -1,0 +1,91 @@
+[
+    {
+      "id":1,
+      "name": "Sea of Galilee",
+      "location" : {
+        "lat": 32.83333,
+        "lng": 35.583331
+      }
+    },
+    {
+      "id":2,
+      "name": "Ein Gedi",
+      "location" : {
+        "lat": 31.4499982,
+        "lng": 35.3833318
+      }
+    },
+    {
+      "id":3,
+      "name": "Masada",
+      "location" : {
+        "lat": 31.309332096,
+        "lng": 35.352165258
+      }
+    },
+    {
+      "id":4,
+      "name": "Mount Zion",
+      "location" : {
+        "lat": 31.769663588,
+        "lng": 35.223832438
+      }
+    },
+    {
+      "id":5,
+      "name": "Israel Museum",
+      "location" : {
+        "lat": 31.770090253,
+        "lng": 35.2027141891
+      }
+    },
+    {
+      "id":6,
+      "name": "Yad Vashem",
+      "location" : {
+        "lat": 31.771163582,
+        "lng": 35.171999312
+      }
+    },
+    {
+      "id":7,
+      "name": "Old City (Jaffa)",
+      "location" : {
+        "lat": 32.0526881226 ,
+        "lng": 34.751820326
+      }
+    },
+    {
+      "id":8,
+      "name": "Bahá'í World Centre",
+      "location" : {
+        "lat": 32.808663432,
+        "lng": 34.985496058
+      }
+    },
+    {
+      "id":9,
+      "name": "Ramat Gan Safari",
+      "location" : {
+        "lat":32.040333172 ,
+        "lng": 34.82166338
+      }
+    },
+    {
+      "id":10,
+      "name": "Avdat",
+      "location" : {
+        "lat": 30.794,
+        "lng": 34.773
+      }
+    },
+    {
+      "id":11,
+      "name": "Azrieli Center",
+      "location" : {
+        "lat": 32.071259715,
+        "lng": 34.7885785123
+      }
+    }
+
+]
